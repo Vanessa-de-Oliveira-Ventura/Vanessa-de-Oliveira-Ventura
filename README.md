@@ -4,7 +4,6 @@
 - 👩🏾‍🎓 Estudante de Desenvolvimento de Sistemas.
 - 💻 Focado em Python, HTML e CSS
 - 🚀 Preparando-me para o mercado de tecnologia
-- 📬 Contato: lemosnessaoliven@gmail.com
 
 Tecnologias que estudo 
 <div style="display: inline_block"><br> 
@@ -16,9 +15,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
 </div> 
 
-Como me encontrar 
+📬 Como me encontrar 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the
-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-
-badge&logo=gmail&logoColor=white)](mailto:lemosnessaoliven@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lemosnessaoliven@gmail.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanessa-de-Oliveira-Ventura-&show_icons=true&theme=tokyonight)  
