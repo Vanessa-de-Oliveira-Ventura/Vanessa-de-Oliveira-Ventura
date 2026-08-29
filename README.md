@@ -19,4 +19,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lemosnessaoliven@gmail.com)
 
-✨Sempre em busca de evolução pessoal
+✨Sempre em busca de evolução pessoal✨
